@@ -1,1 +1,1 @@
-# concrete_crack_learning
+A deep learning model to predict concrete cracks on concrete images.
